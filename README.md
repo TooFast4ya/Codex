@@ -3,6 +3,8 @@
 
 Made By ๖ۣۣۜCody#1578
 
+Note that this is not even haft of the Original project Il release the full source soon :)
+
 **This bot was built for a college class.**
 
 Feel free to use this, but make sure u add my name in there :)
