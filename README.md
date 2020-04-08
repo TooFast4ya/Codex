@@ -20,7 +20,7 @@ npm install johnny-five
 If u have any question feel free to ask me anything my Discord is ๖ۣۣۜCody#1578
 
 
-Information about this bot.
+__Information about this bot.__
 
 Note that this bot is not a moderation bot it's more made for the fun side and exploration. it has a pretty unique command. 
 
