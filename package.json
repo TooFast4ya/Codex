@@ -1,0 +1,13 @@
+{
+    "name": "TheSeanBot",
+    "version": "1.0.0",
+    "description": "Hi I'm Sean ;/",
+    "main": "bot.js",
+    "author": "Cody",
+    "dependencies": {
+        "discord.io": "github:izy521/discord.io",
+        "discord.js": "^11.6.4",
+        "johnny-five": "^1.4.0",
+        "winston": "^3.2.1"
+    }
+}
