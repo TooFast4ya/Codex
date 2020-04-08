@@ -1,5 +1,6 @@
 # TheSeanBot-Testing
 Use this before publishing.
-This bot was build for a college class. 
+Made By ๖ۣۣۜCody#1578
+This bot was built for a college class. 
 
-Private Build.
+Feel free to use this, but make sure u add my name in there :)
