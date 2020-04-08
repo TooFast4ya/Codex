@@ -1,4 +1,4 @@
-# TheSeanBot-Testing
+# Codex-Beta
 **Use this before publishing.**
 
 Made By ๖ۣۣۜCody#1578
