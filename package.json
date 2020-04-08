@@ -1,7 +1,7 @@
 {
-    "name": "TheSeanBot",
+    "name": "TheCodexBot",
     "version": "1.0.0",
-    "description": "Hi I'm Sean ;/",
+    "description": "I'm Codex;/",
     "main": "bot.js",
     "author": "Cody",
     "dependencies": {
