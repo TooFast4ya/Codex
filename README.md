@@ -2,7 +2,9 @@
 **Use this before publishing.**
 
 Made By ๖ۣۣۜCody#1578
+
 This bot also has **Arduino Support Over the internet.**
+
 Note that this is not even haft of the Original project Il release the full source soon :)
 
 **This bot was built for a college class.**
