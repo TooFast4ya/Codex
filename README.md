@@ -10,7 +10,7 @@ Feel free to use this, but make sure u add my name in there :)
 
 Installation
 
-*Make sure u first install node.js*
+**Make sure u first install node.js**
 
 Install these packages 
 
