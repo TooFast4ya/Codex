@@ -8,9 +8,9 @@
 Feel free to use this, but make sure u add my name in there :)
 
 
-Installation
+# Installation
 
-======
+
 __Make sure u first install node.js__
 
 Install these packages 
