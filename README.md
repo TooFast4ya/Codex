@@ -17,6 +17,8 @@ __Make sure u first install node.js__
 Install these packages 
 
 npm install discord.js
+
+
 npm install johnny-five
 
 If u have any question feel free to ask me anything my Discord is ๖ۣۣۜCody#1578
