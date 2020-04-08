@@ -1,7 +1,7 @@
 # TheSeanBot-Testing
 **Use this before publishing.**
 
-__Made By ๖ۣۣۜCody#1578__
+_Made By ๖ۣۣۜCody#1578
 
 **This bot was built for a college class. **
 
