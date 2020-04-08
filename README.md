@@ -9,7 +9,7 @@ Feel free to use this, but make sure u add my name in there :)
 
 
 Installation
-Alt-H1
+
 ======
 __Make sure u first install node.js__
 
