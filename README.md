@@ -10,6 +10,7 @@ Feel free to use this, but make sure u add my name in there :)
 
 # Installation
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 __Make sure u first install node.js__
 
